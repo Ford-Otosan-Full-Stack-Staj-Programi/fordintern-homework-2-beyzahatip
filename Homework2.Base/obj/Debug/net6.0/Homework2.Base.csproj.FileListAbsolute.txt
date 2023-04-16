@@ -1,0 +1,12 @@
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\bin\Debug\net6.0\Homework2.Base.deps.json
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\bin\Debug\net6.0\Homework2.Base.dll
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\bin\Debug\net6.0\Homework2.Base.pdb
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.csproj.AssemblyReference.cache
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.AssemblyInfoInputs.cache
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.AssemblyInfo.cs
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.csproj.CoreCompileInputs.cache
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.dll
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\refint\Homework2.Base.dll
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\Homework2.Base.pdb
+D:\Vs repos\FordBootcamp\Homework2\Homework2.Base\obj\Debug\net6.0\ref\Homework2.Base.dll

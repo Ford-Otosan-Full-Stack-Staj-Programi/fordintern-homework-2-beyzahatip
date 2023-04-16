@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1\\Homework1.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Base\\Homework1.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Base\\Homework1.Base.csproj",
+        "projectName": "Homework1.Base",
+        "projectPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Base\\Homework1.Base.csproj",
+        "packagesPath": "C:\\Users\\BEYZA\\.nuget\\packages\\",
+        "outputPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BEYZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Data\\Homework1.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Data\\Homework1.Data.csproj",
+        "projectName": "Homework1.Data",
+        "projectPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Data\\Homework1.Data.csproj",
+        "packagesPath": "C:\\Users\\BEYZA\\.nuget\\packages\\",
+        "outputPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BEYZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Base\\Homework1.Base.csproj": {
+                "projectPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Base\\Homework1.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1\\Homework1.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1\\Homework1.Web.csproj",
+        "projectName": "Homework1.Web",
+        "projectPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1\\Homework1.Web.csproj",
+        "packagesPath": "C:\\Users\\BEYZA\\.nuget\\packages\\",
+        "outputPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BEYZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Data\\Homework1.Data.csproj": {
+                "projectPath": "D:\\Vs repos\\FordBootcamp\\Homework1\\Homework1.Data\\Homework1.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
