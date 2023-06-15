@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3bErTxjD)
 Sql Server'da Person ve Account Tabloları oluşturuldu.Person tablosu içerisindeki AccoountId foreignkey yapılarak account tablosu ile relation kuruldu.
 Vİsual Studio'da Person ve Account için model ve DTO oluşturulup özellikler tanımlandı.İki model için de service oluşturulup repository işlemleri burada gerçekleştirildi.BaseResponse cevabı dönüldü.
 Person ve Account için controller oluşturulup tüm metodlar yazıldı.
